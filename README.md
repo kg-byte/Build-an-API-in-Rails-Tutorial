@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## [Part 1](https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one)
+#### Generate an API application with Rails 5
+#### Setup RSpec testing framework with Factory Bot, Database Cleaner, Shoulda Matchers, and Faker.
+#### Build models and controllers with TDD (Test Driven Development).
+#### Make HTTP requests to an API with httpie.
 
-Things you may want to cover:
+## [Part 2](https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-two)
+#### Implement token-based authentication with JWT.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## [Part 3](https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-three)
+#### Versioning
+#### Serializers
+#### Pagination
+#### * Generate seeds with faker
